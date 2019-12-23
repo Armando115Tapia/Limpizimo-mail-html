@@ -270,6 +270,8 @@ a {
 
 .justify {
   text-align: justify;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .uppercase {
@@ -287,6 +289,10 @@ a {
 
 .verdana {
   font-family: "Verdana", sans-serif;
+}
+
+.exo {
+  font-family: "Exo", sans-serif;
 }
 
 .h1 {
