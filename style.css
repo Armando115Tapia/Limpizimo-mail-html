@@ -343,11 +343,16 @@ a {
 }
 
 .max-width {
-  max-width: 90%;
+  max-width: 80%;
   display: block;
   margin: 0 auto !important;
 }
 
+.max-width2 {
+  max-width: 80%;
+  display: block;
+  margin: 0 auto !important;
+}
 .whatsapp {
   max-width: 64px;
 }
