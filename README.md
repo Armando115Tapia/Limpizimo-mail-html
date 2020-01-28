@@ -18,3 +18,6 @@ Las plantillas de nombre __html-1-notificacion-X__ es el mail para cuando se tie
 El archivo __style.css__ es para los dos. 
 
 > Nota: En sendgrid estan los dos templates listos
+
+
+Se creo un archivo solo del footer, aparte para evitar que salga como imagen.
